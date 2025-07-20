@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aloeuz/static/css/main.b1f773e3.css",
+    "main.js": "/aloeuz/static/js/main.d31b5ebe.js",
+    "static/media/about-us-photo.png": "/aloeuz/static/media/about-us-photo.ff3dc556bf071eedd878.png",
+    "static/media/aloe-field.jpg": "/aloeuz/static/media/aloe-field.3234df85c39731f80bb9.jpg",
+    "static/media/hs-aloe-vera.jpg": "/aloeuz/static/media/hs-aloe-vera.fe0a2df401e754859153.jpg",
+    "static/media/business-growth-blog.jpg": "/aloeuz/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
+    "static/media/logo.png": "/aloeuz/static/media/logo.a8b466f5a6f97d0c167a.png",
+    "static/media/bg-aloe.png": "/aloeuz/static/media/bg-aloe.d921d5f9c0071befd890.png",
+    "static/media/aloe-slice.webp": "/aloeuz/static/media/aloe-slice.493916159548ca6719bd.webp",
+    "static/media/money.webp": "/aloeuz/static/media/money.74f6c5b7617f6ebe830e.webp",
+    "static/media/rabbit.png": "/aloeuz/static/media/rabbit.cc1ae8ead70f9c9522ad.png",
+    "static/media/forever-must-have.jpg": "/aloeuz/static/media/forever-must-have.06b468dbf643653b952e.jpg",
+    "index.html": "/aloeuz/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b1f773e3.css",
+    "static/js/main.d31b5ebe.js"
+  ]
+}
