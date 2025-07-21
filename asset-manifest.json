@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aloeuz/static/css/main.b1f773e3.css",
-    "main.js": "/aloeuz/static/js/main.d31b5ebe.js",
+    "main.css": "/aloeuz/static/css/main.f783516e.css",
+    "main.js": "/aloeuz/static/js/main.79b45e32.js",
     "static/media/about-us-photo.png": "/aloeuz/static/media/about-us-photo.ff3dc556bf071eedd878.png",
     "static/media/aloe-field.jpg": "/aloeuz/static/media/aloe-field.3234df85c39731f80bb9.jpg",
     "static/media/hs-aloe-vera.jpg": "/aloeuz/static/media/hs-aloe-vera.fe0a2df401e754859153.jpg",
@@ -15,7 +15,7 @@
     "index.html": "/aloeuz/index.html"
   },
   "entrypoints": [
-    "static/css/main.b1f773e3.css",
-    "static/js/main.d31b5ebe.js"
+    "static/css/main.f783516e.css",
+    "static/js/main.79b45e32.js"
   ]
 }
