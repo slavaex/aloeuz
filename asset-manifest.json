@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.29ff06af.css",
-    "main.js": "/static/js/main.0b8c1964.js",
-    "static/media/about-us-photo.png": "/static/media/about-us-photo.ff3dc556bf071eedd878.png",
-    "static/media/aloe-field.jpg": "/static/media/aloe-field.3234df85c39731f80bb9.jpg",
-    "static/media/hs-aloe-vera.jpg": "/static/media/hs-aloe-vera.fe0a2df401e754859153.jpg",
-    "static/media/business-growth-blog.jpg": "/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
-    "static/media/logo.png": "/static/media/logo.a8b466f5a6f97d0c167a.png",
-    "static/media/bg-aloe.png": "/static/media/bg-aloe.d921d5f9c0071befd890.png",
-    "static/media/aloe-slice.webp": "/static/media/aloe-slice.493916159548ca6719bd.webp",
-    "static/media/money.webp": "/static/media/money.74f6c5b7617f6ebe830e.webp",
-    "static/media/rabbit.png": "/static/media/rabbit.cc1ae8ead70f9c9522ad.png",
-    "static/media/forever-must-have.jpg": "/static/media/forever-must-have.06b468dbf643653b952e.jpg",
-    "index.html": "/index.html"
+    "main.css": "https://aloeuz.pp.ua/static/css/main.29ff06af.css",
+    "main.js": "https://aloeuz.pp.ua/static/js/main.bcf5399b.js",
+    "static/media/about-us-photo.png": "https://aloeuz.pp.ua/static/media/about-us-photo.ff3dc556bf071eedd878.png",
+    "static/media/aloe-field.jpg": "https://aloeuz.pp.ua/static/media/aloe-field.3234df85c39731f80bb9.jpg",
+    "static/media/hs-aloe-vera.jpg": "https://aloeuz.pp.ua/static/media/hs-aloe-vera.fe0a2df401e754859153.jpg",
+    "static/media/business-growth-blog.jpg": "https://aloeuz.pp.ua/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
+    "static/media/logo.png": "https://aloeuz.pp.ua/static/media/logo.a8b466f5a6f97d0c167a.png",
+    "static/media/bg-aloe.png": "https://aloeuz.pp.ua/static/media/bg-aloe.d921d5f9c0071befd890.png",
+    "static/media/aloe-slice.webp": "https://aloeuz.pp.ua/static/media/aloe-slice.493916159548ca6719bd.webp",
+    "static/media/money.webp": "https://aloeuz.pp.ua/static/media/money.74f6c5b7617f6ebe830e.webp",
+    "static/media/rabbit.png": "https://aloeuz.pp.ua/static/media/rabbit.cc1ae8ead70f9c9522ad.png",
+    "static/media/forever-must-have.jpg": "https://aloeuz.pp.ua/static/media/forever-must-have.06b468dbf643653b952e.jpg",
+    "index.html": "https://aloeuz.pp.ua/index.html"
   },
   "entrypoints": [
     "static/css/main.29ff06af.css",
-    "static/js/main.0b8c1964.js"
+    "static/js/main.bcf5399b.js"
   ]
 }
