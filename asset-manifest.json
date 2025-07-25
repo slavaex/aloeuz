@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://aloeuz.pp.ua/static/css/main.29ff06af.css",
-    "main.js": "https://aloeuz.pp.ua/static/js/main.bcf5399b.js",
+    "main.js": "https://aloeuz.pp.ua/static/js/main.295e8e93.js",
     "static/media/about-us-photo.png": "https://aloeuz.pp.ua/static/media/about-us-photo.ff3dc556bf071eedd878.png",
     "static/media/aloe-field.jpg": "https://aloeuz.pp.ua/static/media/aloe-field.3234df85c39731f80bb9.jpg",
     "static/media/hs-aloe-vera.jpg": "https://aloeuz.pp.ua/static/media/hs-aloe-vera.fe0a2df401e754859153.jpg",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.29ff06af.css",
-    "static/js/main.bcf5399b.js"
+    "static/js/main.295e8e93.js"
   ]
 }
