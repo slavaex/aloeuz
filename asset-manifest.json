@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.29ff06af.css",
-    "main.js": "/static/js/main.c23d72d3.js",
+    "main.js": "/static/js/main.0b8c1964.js",
     "static/media/about-us-photo.png": "/static/media/about-us-photo.ff3dc556bf071eedd878.png",
     "static/media/aloe-field.jpg": "/static/media/aloe-field.3234df85c39731f80bb9.jpg",
     "static/media/hs-aloe-vera.jpg": "/static/media/hs-aloe-vera.fe0a2df401e754859153.jpg",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.29ff06af.css",
-    "static/js/main.c23d72d3.js"
+    "static/js/main.0b8c1964.js"
   ]
 }
