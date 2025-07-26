@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://aloeuz.pp.ua/static/css/main.1e37b02d.css",
+    "main.css": "https://aloeuz.pp.ua/static/css/main.da50804e.css",
     "main.js": "https://aloeuz.pp.ua/static/js/main.a26c0865.js",
     "static/media/aloe-field.jpg": "https://aloeuz.pp.ua/static/media/aloe-field.3234df85c39731f80bb9.jpg",
     "static/media/business-growth-blog.jpg": "https://aloeuz.pp.ua/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
@@ -16,7 +16,7 @@
     "index.html": "https://aloeuz.pp.ua/index.html"
   },
   "entrypoints": [
-    "static/css/main.1e37b02d.css",
+    "static/css/main.da50804e.css",
     "static/js/main.a26c0865.js"
   ]
 }
