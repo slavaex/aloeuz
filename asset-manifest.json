@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://aloeuz.pp.ua/static/css/main.da50804e.css",
-    "main.js": "https://aloeuz.pp.ua/static/js/main.82bc57ff.js",
+    "main.css": "https://aloeuz.pp.ua/static/css/main.cc16a9d5.css",
+    "main.js": "https://aloeuz.pp.ua/static/js/main.88237ffb.js",
     "static/media/aloe-field.jpg": "https://aloeuz.pp.ua/static/media/aloe-field.3234df85c39731f80bb9.jpg",
     "static/media/business-growth-blog.jpg": "https://aloeuz.pp.ua/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
     "static/media/Oswald-VariableFont_wght.ttf": "https://aloeuz.pp.ua/static/media/Oswald-VariableFont_wght.081935b0034a515c1872.ttf",
@@ -16,7 +16,7 @@
     "index.html": "https://aloeuz.pp.ua/index.html"
   },
   "entrypoints": [
-    "static/css/main.da50804e.css",
-    "static/js/main.82bc57ff.js"
+    "static/css/main.cc16a9d5.css",
+    "static/js/main.88237ffb.js"
   ]
 }
