@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "https://aloeuz.pp.ua/static/css/main.cc16a9d5.css",
-    "main.js": "https://aloeuz.pp.ua/static/js/main.88237ffb.js",
+    "main.css": "https://aloeuz.pp.ua/static/css/main.a4f8fc65.css",
+    "main.js": "https://aloeuz.pp.ua/static/js/main.b87d23f0.js",
     "static/media/aloe-field.jpg": "https://aloeuz.pp.ua/static/media/aloe-field.3234df85c39731f80bb9.jpg",
     "static/media/business-growth-blog.jpg": "https://aloeuz.pp.ua/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
+    "static/media/about-us-photo.webp": "https://aloeuz.pp.ua/static/media/about-us-photo.5c85b9ff0d5722b96ccc.webp",
     "static/media/Oswald-VariableFont_wght.ttf": "https://aloeuz.pp.ua/static/media/Oswald-VariableFont_wght.081935b0034a515c1872.ttf",
-    "static/media/about-us-photo.webp": "https://aloeuz.pp.ua/static/media/about-us-photo.4ae0cbf58dd8d349bea8.webp",
     "static/media/aloe-slice.webp": "https://aloeuz.pp.ua/static/media/aloe-slice.493916159548ca6719bd.webp",
     "static/media/hs-aloe-vera.webp": "https://aloeuz.pp.ua/static/media/hs-aloe-vera.ff040cd42488fa157377.webp",
-    "static/media/money.webp": "https://aloeuz.pp.ua/static/media/money.74f6c5b7617f6ebe830e.webp",
-    "static/media/logo.webp": "https://aloeuz.pp.ua/static/media/logo.da01fccdc1c971943fcb.webp",
+    "static/media/hs-aloe-vera-small.webp": "https://aloeuz.pp.ua/static/media/hs-aloe-vera-small.0573870be4a6ace9e503.webp",
+    "static/media/about-us-photo-less.webp": "https://aloeuz.pp.ua/static/media/about-us-photo-less.35afcfbe03a98954410a.webp",
     "static/media/bg-aloe.webp": "https://aloeuz.pp.ua/static/media/bg-aloe.674722ba42d8af6c618a.webp",
     "static/media/forever-must-have.jpg": "https://aloeuz.pp.ua/static/media/forever-must-have.06b468dbf643653b952e.jpg",
+    "static/media/money-small.webp": "https://aloeuz.pp.ua/static/media/money-small.164d490881589722e172.webp",
+    "static/media/logo-small.webp": "https://aloeuz.pp.ua/static/media/logo-small.8a479a7cbd7e39b33e01.webp",
     "static/media/rabbit.webp": "https://aloeuz.pp.ua/static/media/rabbit.e41f904247bc0ec34a96.webp",
     "index.html": "https://aloeuz.pp.ua/index.html"
   },
   "entrypoints": [
-    "static/css/main.cc16a9d5.css",
-    "static/js/main.88237ffb.js"
+    "static/css/main.a4f8fc65.css",
+    "static/js/main.b87d23f0.js"
   ]
 }
