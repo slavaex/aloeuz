@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://aloeuz.pp.ua/static/css/main.29ff06af.css",
-    "main.js": "https://aloeuz.pp.ua/static/js/main.295e8e93.js",
-    "static/media/about-us-photo.png": "https://aloeuz.pp.ua/static/media/about-us-photo.ff3dc556bf071eedd878.png",
+    "main.js": "https://aloeuz.pp.ua/static/js/main.97c04519.js",
     "static/media/aloe-field.jpg": "https://aloeuz.pp.ua/static/media/aloe-field.3234df85c39731f80bb9.jpg",
-    "static/media/hs-aloe-vera.jpg": "https://aloeuz.pp.ua/static/media/hs-aloe-vera.fe0a2df401e754859153.jpg",
     "static/media/business-growth-blog.jpg": "https://aloeuz.pp.ua/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
     "static/media/logo.png": "https://aloeuz.pp.ua/static/media/logo.a8b466f5a6f97d0c167a.png",
     "static/media/bg-aloe.png": "https://aloeuz.pp.ua/static/media/bg-aloe.d921d5f9c0071befd890.png",
+    "static/media/about-us-photo.webp": "https://aloeuz.pp.ua/static/media/about-us-photo.4ae0cbf58dd8d349bea8.webp",
     "static/media/aloe-slice.webp": "https://aloeuz.pp.ua/static/media/aloe-slice.493916159548ca6719bd.webp",
+    "static/media/hs-aloe-vera.webp": "https://aloeuz.pp.ua/static/media/hs-aloe-vera.ff040cd42488fa157377.webp",
     "static/media/money.webp": "https://aloeuz.pp.ua/static/media/money.74f6c5b7617f6ebe830e.webp",
     "static/media/rabbit.png": "https://aloeuz.pp.ua/static/media/rabbit.cc1ae8ead70f9c9522ad.png",
     "static/media/forever-must-have.jpg": "https://aloeuz.pp.ua/static/media/forever-must-have.06b468dbf643653b952e.jpg",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.29ff06af.css",
-    "static/js/main.295e8e93.js"
+    "static/js/main.97c04519.js"
   ]
 }
