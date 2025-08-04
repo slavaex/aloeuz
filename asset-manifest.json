@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.c1c15a2d.css",
-    "main.js": "/static/js/main.04d013c3.js",
+    "main.js": "/static/js/main.a4249442.js",
+    "static/js/647.d634fb3f.chunk.js": "/static/js/647.d634fb3f.chunk.js",
+    "static/js/310.f4886937.chunk.js": "/static/js/310.f4886937.chunk.js",
+    "static/js/375.c5d57e54.chunk.js": "/static/js/375.c5d57e54.chunk.js",
+    "static/js/255.1558ddd4.chunk.js": "/static/js/255.1558ddd4.chunk.js",
     "static/media/business-growth-blog.jpg": "/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
     "static/media/about-us-photo.webp": "/static/media/about-us-photo.5c85b9ff0d5722b96ccc.webp",
     "static/media/aloe-field.webp": "/static/media/aloe-field.01615c4d907acaf7ee7e.webp",
@@ -19,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.c1c15a2d.css",
-    "static/js/main.04d013c3.js"
+    "static/js/main.a4249442.js"
   ]
 }
