@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.6525e0c5.css",
-    "main.js": "/static/js/main.d07d94d1.js",
+    "main.js": "/static/js/main.ed15b0ef.js",
     "static/js/647.d634fb3f.chunk.js": "/static/js/647.d634fb3f.chunk.js",
     "static/js/310.f4886937.chunk.js": "/static/js/310.f4886937.chunk.js",
-    "static/js/375.c5d57e54.chunk.js": "/static/js/375.c5d57e54.chunk.js",
+    "static/js/375.e4b7a22c.chunk.js": "/static/js/375.e4b7a22c.chunk.js",
     "static/js/255.1558ddd4.chunk.js": "/static/js/255.1558ddd4.chunk.js",
     "static/media/business-growth-blog.jpg": "/static/media/business-growth-blog.894917b1ad024e38ceff.jpg",
     "static/media/about-us-photo.webp": "/static/media/about-us-photo.5c85b9ff0d5722b96ccc.webp",
@@ -13,6 +13,7 @@
     "static/media/contact-us.webp": "/static/media/contact-us.4de690172e9c3c6adfcd.webp",
     "static/media/aloe-slice.webp": "/static/media/aloe-slice.493916159548ca6719bd.webp",
     "static/media/hs-aloe-vera.webp": "/static/media/hs-aloe-vera.ff040cd42488fa157377.webp",
+    "service-worker.js": "/service-worker.js",
     "static/media/hs-aloe-vera-small.webp": "/static/media/hs-aloe-vera-small.0573870be4a6ace9e503.webp",
     "static/media/about-us-photo-less.webp": "/static/media/about-us-photo-less.35afcfbe03a98954410a.webp",
     "static/media/bg-aloe.webp": "/static/media/bg-aloe.674722ba42d8af6c618a.webp",
@@ -24,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.6525e0c5.css",
-    "static/js/main.d07d94d1.js"
+    "static/js/main.ed15b0ef.js"
   ]
 }
